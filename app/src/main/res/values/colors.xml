@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fe0000</color>
+    <color name="colorPrimaryDark">#d52d2d</color>
+    <color name="colorAccent">#c95731</color>
+    <color name="black">#000</color>
+    <color name="white">#FFF</color>
+    <color name="red">#ff0000</color>
+    <color name="gray">#434040</color>
+    <color name="yellow">#f4ed27</color>
+
+    <color name="water1">#13136D</color>
+    <color name="water2">#2B0D8F</color>
+    <color name="water3">#4B29FF</color>
+    <color name="water4">#018FDA</color>
+    <color name="water5">#8FC4E4</color>
+
+    <color name="fire1">#D1074E</color>
+    <color name="fire2">#E42723</color>
+    <color name="fire3">#E70B79</color>
+    <color name="fire4">#EC762C</color>
+    <color name="fire5">#E4AB8E</color>
+
+    <color name="earth1">#D2340D</color>
+    <color name="earth2">#FF671E</color>
+    <color name="earth3">#FF9B2C</color>
+    <color name="earth4">#FC8523</color>
+    <color name="earth5">#FCCC23</color>
+
+    <color name="wood1">#25E071</color>
+    <color name="wood2">#04C358</color>
+    <color name="wood3">#019149</color>
+    <color name="wood4">#78C344</color>
+    <color name="wood5">#AEEE64</color>
+
+    <color name="iron1">#FFF848</color>
+    <color name="iron2">#FCCC24</color>
+    <color name="iron3">#FFFA9E</color>
+    <color name="iron4">#FFFED3</color>
+    <color name="iron5">#FBFBFD</color>
+
+    <color name="transparent_black_forty">#66000000</color>
+
+
+    <color name="vi_giac_mode_start">#f08767</color>
+    <color name="vi_giac_mode_end">#fbded6</color>
+    <color name="vi_giac_mode_main">#EC2300</color>
+    <color name="peace_mode_start">#4faa6f</color>
+    <color name="peace_mode_end">#a8dabf</color>
+    <color name="peace_mode_main">#00FF00</color>
+    <color name="mommy_mode_start">#4faeda</color>
+    <color name="mommy_mode_end">#9fd1e8</color>
+    <color name="mommy_mode_main">#0000FF</color>
+    <color name="dear_mode_start">#d667b4</color>
+    <color name="dear_mode_end">#eabdde</color>
+    <color name="dear_mode_main">#D61E99</color>
+    <color name="awake_mode_start">#eada49</color>
+    <color name="awake_mode_end">#f8f2be</color>
+    <color name="awake_mode_main">#E8D200</color>
+    <color name="love_mode_start">#e3623b</color>
+    <color name="love_mode_end">#f0bfb1</color>
+    <color name="love_mode_main">#FF0000</color>
+    <color name="energy_mode_start">#d67f38</color>
+    <color name="energy_mode_end">#ebc7af</color>
+    <color name="energy_mode_main">#D75500</color>
+
+    <color name="switch_active_thumb_color">#2199FF</color>
+    <color name="transparent">#00ffffff</color>
+
+</resources>
